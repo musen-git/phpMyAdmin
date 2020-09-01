@@ -1,4 +1,4 @@
-FROM hub.mlamp.cn/merp/php-nginx
+FROM registry.cn-beijing.aliyuncs.com/app-and-cluster/php-nginx
 MAINTAINER  "merp"
 WORKDIR /app/phpmyadmin
 
